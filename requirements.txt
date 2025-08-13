@@ -1,0 +1,8 @@
+# Minimal, unpinned for portability — pin versions in production if needed
+numpy
+pandas
+scipy
+matplotlib
+scikit-learn
+tensorflow>=2.12
+wfdb  # optional, for PhysioNet waveform utilities (not required for CSV-only)
